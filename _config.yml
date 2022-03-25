@@ -20,7 +20,7 @@ title                    : "나의코딩BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jekyson"
-description              : "안녕하세요. 열심히 코딩하며 사소한게 막히고 해결되는것과 열심히하는모습을 게시하겠습니다.!."
+description              : "안녕하세요. 열심히 코딩하며 사소한게 막히고 해결되는것과 열심히하는모습을 게시하겠습니다.!"
 url                      : "https://jekyson.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "jekyson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "안녕하세요. 열심히 코딩하며 사소한게 막히고 해결되는것과 열심히하는모습을 게시하겠습니다.!"
+  location         : "where??"
   email            :
   links:
     - label: "Email"
