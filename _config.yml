@@ -20,7 +20,7 @@ title                    : "나의코딩BLOG"
 title_separator          : "|"
 subtitle                 : Where there is a will there is a way"
 name                     : "JuKe"
-description              : "안녕하세요. 열심히 코딩하며 재밌게하는 학생입니다."
+description              : "JuKe의 블로그입니다."
 url                      : "https://jekyson.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "jekyson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요. 열심히 코딩하며 사소한게 막히고 해결되는것과 열심히하는모습을 게시하겠습니다.!"
+  bio              : "안녕하세요. 열심히 코딩하며 재밌게하는 학생입니다."
   location         : "South Korea"
   email            :
   links:
