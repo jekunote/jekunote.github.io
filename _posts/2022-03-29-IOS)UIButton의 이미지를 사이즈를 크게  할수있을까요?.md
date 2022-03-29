@@ -1,4 +1,6 @@
-
+---
+layout: single 
+title: "IOS)UIButton의 이미지를 크게할수 있을까요?"
 
 #버튼의기능을 확장해보자!
 
